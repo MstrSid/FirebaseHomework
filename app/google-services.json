@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "970454588513",
+    "project_id": "fir-homework-c2510",
+    "storage_bucket": "fir-homework-c2510.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970454588513:android:f55b73e44e93da6ffcde20",
+        "android_client_info": {
+          "package_name": "by.kos.firebasehomework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970454588513-0au7gse9ifpcr4tgtfe921lhhesduvb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXcTNdO2RnsssnEncydWc7IFSRC-2h6Ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970454588513-0au7gse9ifpcr4tgtfe921lhhesduvb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
